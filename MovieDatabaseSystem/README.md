@@ -453,32 +453,54 @@ Filters can be combined for more accurate search results.
 
 ---
 # 📸 Screenshots
+## Application Screenshots
 
-## Dashboard
+Here are the screenshots showing the application features:
 
-```text
-==========================================================
-                 🎬 MOVIE DATABASE SYSTEM
-==========================================================
+### 1. Main Menu
+![Main Menu](assets/images/screenshots/01-main-menu.png)
 
-               📋 MAIN MENU
+### 2. Show All Movies
+![Show All Movies](assets/images/screenshots/02-show-all-movies.png)
 
-1. 📺 Show All Movies
-2. 🔍 Search Movie by Title
-3. 🎭 Filter by Genre
-4. ⭐ Sort by IMDb Rating
-5. 📊 View Statistics
-6. 🎬 Watch Movie
-7. ➕ Add New Movie
-8. 🗑️ Delete Movie
-9. ✏️ Edit Movie
-10. 💾 Save Database
-11. 📤 Export to CSV
-12. 🔍 Advanced Search
-0. 🚪 Exit
+### 3. Search Movie
+![Search Movie](assets/images/screenshots/03-search-movie.png)
 
-==========================================================
-```
+### 4. Filter by Genre
+![Filter by Genre](assets/images/screenshots/04-filter-by-genre.png)
+
+### 5. Sort by Rating
+![Sort by Rating](assets/images/screenshots/05-sort-by-rating.png)
+
+### 6. View Statistics
+![View Statistics](assets/images/screenshots/06-view-statistics.png)
+
+### 7. Watch Movie
+![Watch Movie](assets/images/screenshots/07-watch-movie.png)
+
+### 8. Add New Movie
+![Add New Movie](assets/images/screenshots/08-add-new-movie.png)
+
+### 9. Show All Movies (After Add)
+![Show All Movies After Add](assets/images/screenshots/09-show-all-movies-after-add.png)
+
+### 10. Delete Movie Not Found
+![Delete Movie Not Found](assets/images/screenshots/10-delete-movie-not-found.png)
+
+### 11. Edit Movie Feature
+![Edit Movie Feature](assets/images/screenshots/11-edit-movie-feature.png)
+
+### 12. Save to File Success
+![Save to File Success](assets/images/screenshots/12-save-to-file-success.png)
+
+### 13. Export CSV Success
+![Export CSV Success](assets/images/screenshots/13-export-csv-success.png)
+
+### 14. Advanced Search Menu
+![Advanced Search Menu](assets/images/screenshots/14-advanced-search-menu.png)
+
+### 17. Exit Application
+![Exit Application](assets/images/screenshots/17-exit-application.png)
 
 ---
 
@@ -590,7 +612,7 @@ public class MovieService {
 
 ---
 
-# 🐞 Troubleshooting
+# Troubleshooting
 
 | Problem | Solution |
 |---------|----------|
@@ -816,10 +838,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 
 **Mahnoor Yasir**
 
-**Bachelor of Science in Computer Science (BSCS)**
-
-University of Management and Technology (UMT)
-
 ### Connect with Me
 
 **GitHub**
@@ -855,7 +873,7 @@ Special thanks to the following technologies and communities that made this proj
 
 ---
 
-# 📞 Support
+#  Support
 
 If you encounter any issues while using this project, please create an issue in the GitHub repository.
 
