@@ -751,7 +751,7 @@ The following features can be implemented in future versions to improve the func
 
 ---
 
-# 🤝 Contributing
+# Contributing
 
 Contributions are always welcome.
 
@@ -880,7 +880,7 @@ If you encounter any issues while using this project, please create an issue in 
 GitHub Issues
 
 ```
-https://github.com/yourusername/MovieDatabaseSystem/issues
+https://github.com/mahnoor-yasir/MovieDatabaseSystem/issues
 ```
 
 You can also contact the author through GitHub or LinkedIn.
