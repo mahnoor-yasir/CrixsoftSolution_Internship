@@ -10,7 +10,6 @@
 
 ### Professional Console-Based Java Application for Student Academic Record Management
 
-<img src="assets/images/cover.png" width="100%" alt="Project Cover"/>
 
 <br>
 
@@ -845,21 +844,11 @@ This section demonstrates the application's user interface and the execution flo
 
 ---
 
-# 🏠 Project Cover
-
-<p align="center">
-<img src="assets/images/cover.png" width="100%" alt="Project Cover">
-</p>
-
----
 
 # 🏠 Main Menu
 
 The application starts with a professional console dashboard that provides access to every available feature.
 
-<p align="center">
-<img src="assets/images/main-menu.png" width="95%" alt="Main Menu">
-</p>
 
 ---
 
@@ -877,9 +866,6 @@ Users can register a new student by entering all required academic information.
 - Subject Names
 - Subject Marks
 
-<p align="center">
-<img src="assets/images/add-student.png" width="95%" alt="Add Student">
-</p>
 
 ---
 
@@ -900,10 +886,6 @@ Displayed Information
 - Grade
 - Pass / Fail Status
 
-<p align="center">
-<img src="assets/images/student-details.png" width="95%" alt="Student Details">
-</p>
-
 ---
 
 # 📚 View All Students
@@ -919,10 +901,6 @@ Features
 - Department
 - Semester
 
-<p align="center">
-<img src="assets/images/view-students.png" width="95%" alt="View Students">
-</p>
-
 ---
 
 # 🔍 Search Student
@@ -930,10 +908,6 @@ Features
 Search students using Student ID.
 
 The system instantly displays the complete academic profile.
-
-<p align="center">
-<img src="assets/images/search-student.png" width="95%" alt="Search Student">
-</p>
 
 ---
 
@@ -950,10 +924,6 @@ Editable Information
 - GPA
 - Grade
 
-<p align="center">
-<img src="assets/images/update-student.png" width="95%" alt="Update Student">
-</p>
-
 ---
 
 # 🗑 Delete Student
@@ -961,10 +931,6 @@ Editable Information
 Remove unwanted records safely.
 
 The application requests confirmation before permanently deleting a record.
-
-<p align="center">
-<img src="assets/images/delete-student.png" width="95%" alt="Delete Student">
-</p>
 
 ---
 
@@ -980,19 +946,11 @@ The application calculates
 - Letter Grade
 - Academic Status
 
-<p align="center">
-<img src="assets/images/grade-calculation.png" width="95%" alt="Grade Calculation">
-</p>
-
 ---
 
 # 🎓 GPA Calculation
 
 The GPA module calculates the student's academic performance using the grading scale.
-
-<p align="center">
-<img src="assets/images/gpa.png" width="95%" alt="GPA Calculation">
-</p>
 
 ---
 
@@ -1011,10 +969,6 @@ Calculated Statistics
 - Pass Rate
 - Fail Rate
 
-<p align="center">
-<img src="assets/images/statistics.png" width="95%" alt="Statistics">
-</p>
-
 ---
 
 # 🏆 Merit List
@@ -1029,9 +983,6 @@ Displays
 - Percentage
 - Grade
 
-<p align="center">
-<img src="assets/images/merit-list.png" width="95%" alt="Merit List">
-</p>
 
 ---
 
@@ -1058,20 +1009,12 @@ D  : 2
 
 F  : 1
 ```
-
-<p align="center">
-<img src="assets/images/grade-distribution.png" width="95%" alt="Grade Distribution">
-</p>
-
 ---
 
 # 📄 Individual Student Report
 
 The application automatically generates a professional report card.
 
-<p align="center">
-<img src="assets/images/student-report.png" width="95%" alt="Student Report">
-</p>
 
 Sample Report
 
@@ -1123,9 +1066,6 @@ Status           : PASS
 
 Generate a complete report containing all registered students.
 
-<p align="center">
-<img src="assets/images/class-report.png" width="95%" alt="Class Report">
-</p>
 
 ---
 
@@ -1149,9 +1089,6 @@ StudentID,Name,Department,Semester,Subject,Marks,Grade,GPA
 103,Sara Ahmed,Software Engineering,4,Java,84,B+,3.50
 ```
 
-<p align="center">
-<img src="assets/images/csv-storage.png" width="95%" alt="CSV Storage">
-</p>
 
 ---
 
@@ -1169,10 +1106,6 @@ The grading system follows predefined academic rules.
 | 60–69 | C | 2.00 |
 | 50–59 | D | 1.00 |
 | Below 50 | F | 0.00 |
-
-<p align="center">
-<img src="assets/images/grading-scale.png" width="95%" alt="Grading Scale">
-</p>
 
 ---
 
